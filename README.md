@@ -4,8 +4,8 @@ This is my final project with my team while self-studying python for data scienc
 
 ### **Supervised Learning**
 
-FP1 : **[Linear Regression](https://github.com/fwaafnn/final-project-ml/blob/main/PYTN_KampusMerdeka_FP1_AfwaAfini.ipynb)**
-FP2 : **[Classification](https://github.com/fwaafnn/final-project-ml/blob/main/PYTN_KampusMerdeka_FP2_AfwaAfini.ipynb)**
+FP1 : **[Linear Regression](https://github.com/fwaafnn/final-project-ml/blob/main/PYTN_KampusMerdeka_FP1_AfwaAfini.ipynb)** <br/>
+FP2 : **[Classification](https://github.com/fwaafnn/final-project-ml/blob/main/PYTN_KampusMerdeka_FP2_AfwaAfini.ipynb)** <br/>
 FP3 : **[Ensemble (Random Forest Boosting)](https://github.com/fwaafnn/final-project-ml/blob/main/PYTN_KampusMerdeka_FP3_AfwaAfini.ipynb)**
 
 ### **Unsupervised Learning**
